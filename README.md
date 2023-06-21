@@ -4,8 +4,8 @@
 ## Problem statement :
 
 ## TO PREDICT THE STOCK PRICE OF ANY COMPANY USING LSTM.
-### ABOUT DATASET : 
-                     This dataset contains historical data of Google's stock prices and related attributes. It consists of 14 columns and a smaller subset of 1257 rows. Each column represents a specific attribute, and each row contains the corresponding values for that attribute.
+### ABOUT DATASET :
+This dataset contains historical data of Google's stock prices and related attributes. It consists of 14 columns and a smaller subset of 1257 rows. Each column represents a specific attribute, and each row contains the corresponding values for that attribute.
 
 The columns in the dataset are as follows:
 
